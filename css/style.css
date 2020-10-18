@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+}
+
+.first_image{
+    background: black;
+    position: relative;
+}
+
+.first_image img{
+    width: 99%;
+    border-style: ridge;
+    border-color: white;
+}
+
+.page1_text{
+    color: white;
+    text-align: left;
+    top:26%;
+    left: 3%;
+    right: 63%;
+    position: absolute;
+
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 15px;
+}
+
+.second_image{
+   background: black;
+   position: relative;
+}
+
+.second_image img{
+    width: 99%;
+    border-style: ridge;
+    border-color: white;
+
+}
+
+.page2_text{
+    color: white;
+    text-align: center;
+    top: 33%;
+    left: 40%;
+    right: 40%;
+    position: absolute;
+
+    font-family: 'Major Mono Display', monospace;
+    font-size: 20px;
+}
+
+.third_image{
+    background: black;
+    position: relative;
+}
+
+.third_image img{
+    width: 99%;
+    border-style: ridge;
+    border-color: white;
+}
+.page3_text{
+    color: white;
+    text-align: right;
+    top: 5%;
+    left: 80%;
+    right: 5%;
+    position: absolute;
+
+    font-family: 'Major Mono Display', monospace;
+    font-size: 16px;
+}
